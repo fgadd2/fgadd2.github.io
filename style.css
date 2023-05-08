@@ -48,6 +48,10 @@ ul {
     padding: 20px;
 }
 
+.imgrs {
+    display: inline-block
+}
+
 table, th, td {
   border:1px solid black;
 }
