@@ -59,7 +59,7 @@ table, th, td {
   border:1px solid black;
     border-radious: 10px;
 }
-<style>
+
 .flex-container {
   display: flex;
   flex-direction: column;
@@ -74,7 +74,6 @@ table, th, td {
   line-height: 75px;
   font-size: 30px;
 }
-</style>
 
 
 
