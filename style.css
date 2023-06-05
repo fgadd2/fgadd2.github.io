@@ -63,7 +63,7 @@ table, th, td {
 .flex-container {
   display: flex;
   flex-direction: column;
-  background-color: Dodgerblack;
+  background-color: white;
 }
 
 .flex-container > div {
