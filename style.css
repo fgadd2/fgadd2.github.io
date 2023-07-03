@@ -74,7 +74,9 @@ table, th, td {
         display: block;
         margin-right: auto;
         float: none;
+        
     }
+    
 }
 
 
@@ -85,5 +87,17 @@ table, th, td {
         display: block;
         margin-right: auto;
         float: none;
+    }
+}
+
+@media screen and (max-width: 800px){
+    p{
+     max-width 70%;
+        height: auto;
+        display: block;
+        margin-right: auto;
+        float: none;
+        font-size: 20px
+    
     }
 }
