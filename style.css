@@ -67,7 +67,23 @@ table, th, td {
   line-height: 75px;
   font-size: 30px;
 }
+@media screen and (max-width: 800px){
+    .beneficios{
+     max-width 70%;
+        height: auto;
+        display: block;
+        margin-right: auto;
+        float: none;
+    }
+}
 
 
-
-
+@media screen and (max-width: 800px){
+    #banner {
+     max-width 70%;
+        height: auto;
+        display: block;
+        margin-right: auto;
+        float: none;
+    }
+}
